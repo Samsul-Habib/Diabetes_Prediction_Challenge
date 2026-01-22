@@ -92,3 +92,6 @@ code .
 ```
 
 6. Select the kernel and run the notebook cells.
+
+## Link of the competition
+[URL] [https://www.kaggle.com/competitions/playground-series-s5e12]
